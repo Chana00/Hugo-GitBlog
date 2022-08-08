@@ -1,7 +1,6 @@
 ---
 title: "Written Test01"
 date: 2022-08-08T14:02:25+09:00
-draft: true
 ---
 
 ## Hello!
