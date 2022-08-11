@@ -2,21 +2,17 @@ baseurl: https://example.com
 languageCode: kor-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Ko YeWon
 
 languages:
     en:
         languageName: English
-        title: Example Site
-        weight: 1
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
+        title: Ko YeWon ( Chana00 )
         weight: 2
-    kor:
+    ko:
         languageName: 한국어
-        title: 예제 페이지 
-        weight: 3
+        title: Ko YeWon
+        weight: 1
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -26,7 +22,7 @@ googleAnalytics:
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
-DefaultContentLanguage: en
+DefaultContentLanguage: ko
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -53,7 +49,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 인턴 진행중인 개발자 꿈나무😉
         avatar:
             enabled: true
             local: true
@@ -195,7 +191,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/Chana00
           params:
               icon: brand-github
 
