@@ -5,4 +5,5 @@ draft: true
 ---
 
 ## Hugo server로 github.io 블로그 구축
-블로그 테마 설정중입니다 :D
+블로그 테마 설정중입니다 :D 
+반갑습니다
