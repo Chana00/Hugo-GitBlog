@@ -5,10 +5,10 @@ paginate: 5
 title: Ko YeWon
 
 languages:
-    en:
-        languageName: English
-        title: Ko YeWon ( Chana00 )
-        weight: 2
+    # en:
+    #     languageName: English
+    #     title: Ko YeWon ( Chana00 )
+    #     weight: 2
     ko:
         languageName: 한국어
         title: Ko YeWon
