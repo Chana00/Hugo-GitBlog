@@ -1,8 +1,7 @@
 ---
-menu: 
-    main:
-        name: Talk
-        weight: -90
-        params:
-
+menu:
+  main:
+    name: Talk
+    weight: 100
+    params:
 ---
